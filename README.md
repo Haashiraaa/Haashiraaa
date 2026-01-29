@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Haashiraaa/Haashiraaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Haashiraaa 👋
 
-Here are some ideas to get you started:
+Self-taught Python developer passionate about turning messy data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages & Tools:**
+- Python (pandas, matplotlib, BeautifulSoup, requests)
+- SQL (PostgreSQL)
+- Git & GitHub
+
+**Skills:**
+- Web scraping & data extraction
+- Data cleaning & analysis
+- Database design & management
+- Data visualization
+
+## 🚀 What I'm Working On
+
+Building web scrapers and data analysis tools that solve real-world problems.
+
+## 📫 Let's Connect
+
+- 💼 Open to freelance projects
+- 📧 Email: [terryfregene.dev@gmail.com](mailto:terryfregene.dev@gmail.com)
+
+---
+
