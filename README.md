@@ -172,12 +172,7 @@ Built 7 production-ready projects in 5 months through intensive self-directed le
 
 ## 📊 GitHub Stats
 
-[
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haashiraaa&theme=dark)
-
-](https://git.io/streak-stats)
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Haashiraaa&show_icons=true&theme=dark)
 ---
 
 ### 🌟 "Turning messy data into actionable insights, one project at a time."
