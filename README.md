@@ -83,7 +83,7 @@
 - **Impact:** Provided comprehensive job market intelligence for informed career decisions
 
 **Tech:** Python, BeautifulSoup, PostgreSQL (COPY), Pandas  
-**[View Project →](https://github.com/Haashiraaa/web-scraping-projects)**
+**[View Project →](https://github.com/Haashiraaa/web-scraping-portfolio)**
 
 ---
 
@@ -172,7 +172,11 @@ Built 7 production-ready projects in 5 months through intensive self-directed le
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Haashiraaa&show_icons=true&theme=dark)
+[
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haashiraaa&theme=dark)
+
+](https://git.io/streak-stats)
 
 ---
 
