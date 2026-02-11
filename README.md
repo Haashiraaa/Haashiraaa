@@ -1,4 +1,4 @@
-# Hi, I'm Haashiraaa 👋
+# Hi, I'm Hashira 👋
 
 **Self-taught Python Developer** specializing in turning messy data into actionable business insights through automation, analysis, and intelligent scraping.
 
