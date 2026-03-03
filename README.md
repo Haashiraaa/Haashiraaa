@@ -2,8 +2,10 @@
 
 <div align="center">
   
-# Hi, I'm Hashira 👋
-
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+  Hi, I'm Hashira
+</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+Production+Systems;Coding+on+Android;Self-Taught+Engineer;Shipping+Code+Daily" alt="Typing SVG" />
 
@@ -13,7 +15,7 @@
 
 
 
-**Building production systems. One project at a time.** 🚀
+**Building modular backend systems with Python, PostgreSQL, and ETL pipelines.** 🚀
 
 </div>
 
@@ -21,12 +23,11 @@
 
 ## 👨‍💻 About Me
 
-Self-taught developer coding on a phone. No laptop. No bootcamp. No excuses.
+Self-taught developer coding on a phone. Backend developer focused on building modular systems and backend architecture in Python.
 
 💻 Focus: Backend systems, data infrastructure, developer tools  
 📱 Environment: ArchLinux on Termux + Neovim + AI completion  
-🎯 Philosophy: Build in public. Ship regularly. Help others grow.  
-🚀 Currently: Building backend systems & data pipelines
+
 
 ---
 
@@ -61,8 +62,6 @@ Self-taught developer coding on a phone. No laptop. No bootcamp. No excuses.
 
 
 
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 
@@ -172,8 +171,7 @@ Comprehensive job market intelligence platform
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haashiraaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true)
-
+![GitHub Stats](https://github-readme-statss-theta-three.vercel.app/api?username=Haashiraaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 
 
@@ -183,10 +181,7 @@ Comprehensive job market intelligence platform
 
 
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haashiraaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-
+![Top Languages](https://github-readme-statss-theta-three.vercel.app/api/top-langs/?username=Haashiraaa&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -202,29 +197,14 @@ Comprehensive job market intelligence platform
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Haashiraaa&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)
-
-
-
-</div>
-
----
 
 ## 💭 Philosophy
 
-> **Build in public.** Share what I learn. Help others grow.
+> **In the face of ambiguity, refuse the temptation to guess.**
 
-Code with intention. Document thoroughly. Ship regularly.
+Intentional code. Clear documentation. Consistent shipping.
 
-Constraints breed creativity. I code on a phone because that's what I have.  
-When I get a laptop, I'll build bigger things.  
-Until then, I'm not waiting.
+I build within constraints and optimize for progress — regardless of environment.
 
 ---
 
