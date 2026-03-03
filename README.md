@@ -1,180 +1,247 @@
+
+
+<div align="center">
+  
 # Hi, I'm Hashira 👋
 
-**Self-taught Python Developer** specializing in turning messy data into actionable business insights through automation, analysis, and intelligent scraping.
 
-**🎯 What I Do:** Build production-ready data solutions that save time, reduce costs, and drive decision-making for businesses.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+Production+Systems;Coding+on+Android;Self-Taught+Engineer;Shipping+Code+Daily" alt="Typing SVG" />
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Haashiraaa&color=58a6ff&style=for-the-badge&label=Profile+Views)
+
+
+
+**Building production systems. One project at a time.** 🚀
+
+</div>
 
 ---
 
-## 🔧 Technical Expertise
+## 👨‍💻 About Me
 
-**Languages & Frameworks:**
-- Python 3.x (pandas, NumPy, BeautifulSoup, requests, Matplotlib, Seaborn)
-- SQL (PostgreSQL)
-- Git & GitHub
+Self-taught developer coding on a phone. No laptop. No bootcamp. No excuses.
 
-**Core Skills:**
-- 📊 **Data Analysis & Business Intelligence** - Statistical analysis, trend identification, executive reporting
-- 🕷️ **Web Scraping & Data Extraction** - Multi-page scraping, pagination handling, rate limiting, CAPTCHA avoidance
-- 🔄 **ETL Pipeline Development** - Data extraction, transformation, loading, and automation
-- 🗄️ **Database Design** - PostgreSQL schema design, bulk data operations
-- 🤖 **API Integration & Automation** - REST APIs, authentication, scheduled tasks, notification systems
-- 📈 **Data Visualization** - Professional dashboards, business intelligence reporting, actionable insights
+💻 Focus: Backend systems, data infrastructure, developer tools  
+📱 Environment: ArchLinux on Termux + Neovim + AI completion  
+🎯 Philosophy: Build in public. Ship regularly. Help others grow.  
+🚀 Currently: Building backend systems & data pipelines
 
-**Development Practices:**
-- Modular architecture & code reusability
-- Type hints & comprehensive documentation
-- Error handling & logging
-- Version control with Git
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Core
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+### Backend & Data
+
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+
+
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+
+### Tools & Environment
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
+
+
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+
+
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📍 Real Estate Market Intelligence System
-**Production-grade web scraper for property market analysis**
+### 📦 [haashi-analytics-toolkit](https://github.com/Haashiraaa/haashi-analytics-toolkit) v1.2.0
+**Python package for data operations and analysis**
 
-- Extracted and analyzed 280+ property listings from NigeriaPropertyCentre.com
-- Built complete ETL pipeline: scraping → cleaning → PostgreSQL storage → analytics
-- Implemented smart geographic categorization (cities, LGAs)
-- Created 4-panel analytics dashboard showing pricing trends and market insights
-- **Impact:** Automated property data collection, reducing manual research time by 95%
+Production-ready toolkit for data engineering and analytics
+- DataFrame/Series factory (create pandas objects without imports)
+- Terminal colors utility (beautiful CLI output)
+- Data loading/saving with quality checks
+- 2000+ lines of comprehensive documentation
+- Used across all my projects
 
-**Tech:** Python, BeautifulSoup, PostgreSQL, Pandas, Matplotlib  
-**[View Project →](https://github.com/Haashiraaa/web-scraping-portfolio)**
-
----
-
-### 📊 Sales Insight Engine with BI Reporting
-**Comprehensive sales analysis system with executive reporting**
-
-- Analyzed 479 retail sales records with statistical analysis and trend identification
-- Designed automated ETL pipeline for data processing
-- Generated executive-level BI report with actionable business recommendations
-- Achieved 95%+ data quality through robust validation
-- **Impact:** Delivered insights enabling data-driven business decisions
-
-**Tech:** Python, Pandas, NumPy, Matplotlib, Statistical Analysis  
-**[View Project →](https://github.com/Haashiraaa/data-analysis-projects)**
+**Tech:** Python, Pandas, Type Hints, Documentation
 
 ---
 
-### 💰 Live Cryptocurrency Tracker
+### 🏠 [Real Estate Intelligence System](https://github.com/Haashiraaa/web-scraping-portfolio)
+**Production scraper + analytics for Nigerian property market**
+
+Complete ETL pipeline for property market analysis
+- Scraped and analyzed 280+ property listings
+- Smart geographic categorization (cities, LGAs)
+- PostgreSQL database with optimized schema
+- 4-panel analytics dashboard showing market insights
+- Automated property data collection
+
+**Tech:** Python, BeautifulSoup, PostgreSQL, Matplotlib
+
+---
+
+### 💰 [Live Cryptocurrency Tracker](https://github.com/Haashiraaa/api-integration-projects)
 **Real-time price monitoring with automated notifications**
 
-- Built real-time cryptocurrency monitoring system
-- Integrated CoinMarketCap API and Telegram Bot API
-- Automated price updates every 5 minutes with instant notifications
-- Robust error handling and retry logic for 24/7 operation
-- **Impact:** Automated cryptocurrency monitoring, eliminating manual price checking
+24/7 cryptocurrency monitoring system
+- CoinMarketCap API + Telegram Bot integration
+- Automated price updates every 5 minutes
+- Instant notifications on price changes
+- Robust error handling and retry logic
+- Production-ready uptime
 
-**Tech:** Python, CoinMarketCap API, Telegram Bot API, requests  
-**[View Project →](https://github.com/Haashiraaa/api-integration-projects)**
+**Tech:** Python, REST APIs, Telegram Bot, Error Handling
 
 ---
 
-### 💼 Job Market Analysis System
+### 📊 [Sales Insight Engine](https://github.com/Haashiraaa/data-analysis-projects)
+**Comprehensive sales analysis with BI reporting**
+
+Executive-level business intelligence system
+- Analyzed 479 retail sales records
+- Statistical analysis and trend identification
+- Automated ETL pipeline for data processing
+- Generated actionable business recommendations
+- 95%+ data quality through validation
+
+**Tech:** Python, Pandas, Statistical Analysis, Visualization
+
+---
+
+### 💼 [Job Market Analysis System](https://github.com/Haashiraaa/web-scraping-portfolio)
 **Automated job listings scraper with market insights**
 
-- Scraped job listings with multi-page pagination handling
+Comprehensive job market intelligence platform
 - PostgreSQL database with optimized bulk insertion (10x faster)
-- Market analysis identifying top companies, locations, categories
+- Market analysis (top companies, locations, categories)
 - Analytics dashboard with temporal filtering
-- **Impact:** Provided comprehensive job market intelligence for informed career decisions
+- Informed career decision support
 
-**Tech:** Python, BeautifulSoup, PostgreSQL (COPY), Pandas  
-**[View Project →](https://github.com/Haashiraaa/web-scraping-portfolio)**
-
----
-
-### 📦 haashi_pkg - Data Engineering Toolkit
-**Custom Python package for data processing and automation**
-
-- Reusable modules: DataEngine (cleaning/validation), PlotEngine (visualization), Utility (logging/helpers)
-- Used across all projects to reduce code duplication
-- Open-source with comprehensive documentation
-- **Impact:** Increased development efficiency by 40% through code reusability
-
-**Tech:** Python, Object-Oriented Programming, Package Development  
-**[View Project →](https://github.com/Haashiraaa/haashi-analytics-toolkit)**
-
----
-
-## 💼 What I Can Build For You
-
-**Data Analysis & Reporting:**
-- Business intelligence dashboards
-- Sales and revenue analysis
-- Customer behavior insights
-- Automated reporting systems
-- Data visualization and metrics tracking
-
-**Web Scraping & Data Collection:**
-- E-commerce product data extraction
-- Competitor price monitoring
-- Real estate listings aggregation
-- Job market analysis
-- Market research data collection
-
-**Automation & Integration:**
-- API integration and data synchronization
-- Automated notifications (Email, Telegram, SMS)
-- Scheduled data processing pipelines
-- ETL workflow automation
-- Custom data processing scripts
-
-**Database Solutions:**
-- PostgreSQL database design and setup
-- Data migration and bulk loading
-- ETL pipeline implementation
-- Database schema design
-
----
-
-## 📈 Work Approach
-
-1. **Understand** - Deep dive into your business needs and pain points
-2. **Design** - Create scalable, maintainable solutions architecture
-3. **Build** - Develop clean, well-documented, production-ready code
-4. **Deliver** - Provide complete solutions with documentation and support
-5. **Iterate** - Refine based on feedback and evolving requirements
-
-**Code Quality Standards:**
-- ✅ Comprehensive documentation (README, inline comments)
-- ✅ Error handling and logging
-- ✅ Modular, reusable architecture
-- ✅ Version control best practices
-- ✅ Testing and validation
-
----
-
-## 📫 Let's Connect
-
-**💼 Open to:**
-- Freelance projects (data analysis, web scraping, automation)
-- Remote contract work
-- Data engineering collaborations
-- Python development opportunities
-
-**📧 Email:** terryfregene.dev@gmail.com  
-**💼 LinkedIn:** [linkedin.com/in/terry-fregene](https://www.linkedin.com/in/terry-fregene-b37104391)  
-**📊 Portfolio:** All projects available in my repositories below
-
----
-
-## 🎓 Self-Taught Journey
-
-Built 7 production-ready projects in 5 months through intensive self-directed learning. Specialized in practical, real-world problem-solving with Python, demonstrating exceptional resourcefulness and rapid skill acquisition.
-
-**Philosophy:** Clean code, clear documentation, tangible business value.
+**Tech:** Python, BeautifulSoup, PostgreSQL (COPY), Analytics
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Haashiraaa&show_icons=true&theme=dark)
+<div align="center">
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haashiraaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true)
+
+
+
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haashiraaa&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=ff6b6b&currStreakLabel=58a6ff)
+
+
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haashiraaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+
+
+</div>
+
 ---
 
-### 🌟 "Turning messy data into actionable insights, one project at a time."
+## 📈 Contribution Activity
 
-**Ready to collaborate?** Check out my repositories below or reach out via email! 👇
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Haashiraaa&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b6b&area=true&area_color=1f6feb)
+
+
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Haashiraaa&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)
+
+
+
+</div>
+
+---
+
+## 💭 Philosophy
+
+> **Build in public.** Share what I learn. Help others grow.
+
+Code with intention. Document thoroughly. Ship regularly.
+
+Constraints breed creativity. I code on a phone because that's what I have.  
+When I get a laptop, I'll build bigger things.  
+Until then, I'm not waiting.
+
+---
+
+## 📫 Connect
+
+**Email:** terryfregene.dev@gmail.com  
+**LinkedIn:** [terry-fregene](https://www.linkedin.com/in/terry-fregene-b37104391)  
+**GitHub:** [@Haashiraaa](https://github.com/Haashiraaa)
+
+💡 **Open to:** Collaboration · Code review · Interesting problems
+
+---
+
+<div align="center">
+
+**Currently:**  Building backend systems | Learning system design | Shipping code daily
+
+⭐️ From [Haashiraaa](https://github.com/Haashiraaa)
+
+</div>
