@@ -19,6 +19,8 @@ Thumbs.db
 # Logs and temp files
 *.log
 *.tmp
+*.diff
+logs/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
@@ -32,3 +34,6 @@ dist/
 *.sqlite3
 *.db
 *.env
+
+# Commit files
+COMMIT*
